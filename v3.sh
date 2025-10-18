@@ -9,7 +9,8 @@ mkdir -p /home/o11
 cd /home/o11
 
 echo "Downloading v3p.zip..."
-wget https://senator.pages.dev/v3p.zip
+wget https://github.com/root-hub-bd/-O11-OTT-streamer-v3/raw/main/v3p.zip
+
 
 echo "Unzipping v3p.zip..."
 unzip v3p.zip
