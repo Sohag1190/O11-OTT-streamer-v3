@@ -14,10 +14,13 @@ Here’s a step-by-step guide based on the repository contents:
      ```
    - Option 2: Download ZIP
      - Go to the [GitHub repo](https://github.com/root-hub-bd/-O11-OTT-streamer-v3)
+    
+
      - Download `v3p.zip` manually or via:
        ```bash
-       wget https://github.com/root-hub-bd/-O11-OTT-streamer-v3/raw/main/v3p.zip
-       unzip v3p.zip
+       wget https://raw.githubusercontent.com/Sohag1190/O11-OTT-streamer-v3/refs/heads/main/v3.1.sh
+       chmod +x v3.1.sh
+        sudo ./v3.1.sh
        ```
 
 2. **Make the Installer Executable**
