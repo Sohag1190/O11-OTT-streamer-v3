@@ -10,8 +10,8 @@ echo "🔧 Updating package list and installing dependencies..."
 sudo apt-get update -y
 sudo apt-get install -y ffmpeg unzip wget
 
-INSTALL_DIR="/home/o11"
-ZIP_URL="https://github.com\Sohag1190/O11-OTT-streamer-v3/raw/main/v3p.zip"
+INSTALL_DIR="/root/o11"
+ZIP_URL="https://github.com/sohag1190/O11-OTT-streamer-v3/raw/main/v3p.zip"
 ZIP_FILE="v3p.zip"
 LAUNCHER="v3p_launcher"
 SERVICE_NAME="o11"
