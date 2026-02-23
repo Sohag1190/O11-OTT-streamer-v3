@@ -1,4 +1,3 @@
-**The README for [Sohag1192/O11-OTT-streamer-v3](https://github.com/Sohag1192/O11-OTT-streamer-v3) explains how to install and run the O11 OTT Streamer v3 using provided shell scripts and a packaged ZIP file.**  
 
 ---
 
@@ -36,6 +35,17 @@
    ```bash
    ./v3.sh
    ```
+   ---
+
+## 📊 Dashboard
+
+Once running, access the dashboard in your browser:
+
+```
+http://serverip:1234
+```
+
+Replace `serverip` with your actual server IP address.
 
 5. **Follow On-Screen Prompts**
    - Installs dependencies  
@@ -58,4 +68,4 @@
 
 ---
 
-👉 If you’d like, I can **summarize exactly what `v3.sh` does line by line**, so you know what’s happening before running it on your server. That way, you’ll have a clear, reproducible installation guide for SN TV or Falcon Cast. Would you like me to break down the script?
+
