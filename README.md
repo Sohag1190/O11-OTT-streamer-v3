@@ -1,6 +1,6 @@
 
 ---
-
+![Badge](https://hitscounter.dev/api/hit?url=https%3A%2F%2Fgithub.com%2FSohag1190%2FO11-OTT-streamer-v3&label=Vistors&icon=github&color=%23ff247b&message=&style=flat&tz=UTC)
 ### 📦 Project Overview
 - **Name:** O11 OTT Streamer v3  
 - **Language:** 100% Shell scripts (`.sh`)  
